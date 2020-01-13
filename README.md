@@ -1,4 +1,4 @@
-# lession2
+# 写给后端开发人员的Vue.js教程配套代码仓库
 
 ## Project setup
 ```
