@@ -19,7 +19,7 @@ export default {
       canvas: null,
       graphics: null,
       gridWidth: 100,
-      gridWithOptions: [10, 20, 50, 100]
+      gridWidthOptions: [10, 20, 50, 100]
     }
   },
   computed: {
